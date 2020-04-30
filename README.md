@@ -2,9 +2,7 @@
 ## Git Project
 ###### This is my first project on github.
 **Hello this is Bold test**
-
 *This is Italic*
-
 ***This is Bold as well as Italic***
 > Honesty is the best policy
 
@@ -14,12 +12,28 @@ Here is the link[My home page](https://github.com/Talha-82542/My-first-project/e
 
 List
 
--Mango
+- Mango
 
--pineapple
+- pineapple
 
--banana
-Task list
--[x] All is well.
--[ ] All is not well.
--[ ]something is wrong.
+- banana
+1. khan
+2. talha 
+
+- [x] All is well.
+- [ ] All is not well.
+- [ ] something is wrong.
+
+~~This was mistaken test~~
+
+`git status`
+
+```
+git status
+git add .
+git commit -m
+```
+
+First list item
+- second nested list item
+  - third nested list item
